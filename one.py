@@ -14,8 +14,10 @@
 # print(f"hello {full_name }")
 # print(type(last_name))
 
-a,b = input("enter the value a & b ")
+a,b = input("enter the value a & b ") 
 n = int(a,b)
 
 sum = a + b
 print(f"sum of a and b is{sum} ")
+
+print("hi ")
